@@ -7,7 +7,7 @@ type Props = {
 };
 
 const StuffPage = (params: Props) => {
-  return <div>StuffPage: {JSON.stringify(params)}</div>;
+  return <div>StuffPage</div>;
 };
 
 export default StuffPage;
